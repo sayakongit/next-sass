@@ -46,8 +46,8 @@ function Login() {
         alt="bg-image"
         className="h-[30%] object-cover md:h-full md:w-[50%]"
       ></Image>
-      <div className="mx-auto flex items-center justify-center">
-        <div className="p-8">
+      <div className="mx-auto flex w-full items-center justify-center">
+        <div className="p-8 md:w-[60%]">
           <h1 className="text-3xl font-bold">Welcome Back!</h1>
           <p className="py-2">
             Don&apos;t have an account?{' '}
